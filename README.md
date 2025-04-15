@@ -1,5 +1,5 @@
 Version Francaise : 
-# Contact Management System - API REST
+# Application de Gestion de Contacts en Java - API REST
 
 Ce projet est une API backend développée en **Java** avec **Spring Boot** et **MySQL**, permettant de gérer des contacts. Elle offre une architecture RESTful claire et modulaire, idéale pour une intégration avec des applications web ou mobiles.
 
@@ -60,7 +60,7 @@ Les réponses de l’API sont renvoyées au format **JSON**.
 
 ---
 English Version : 
-#  Contact Management System API
+#  Contact Management APP JAVA : 
 
 A full-featured, scalable backend API developed using **Java**, **Spring Boot**, and **MySQL**, designed to manage and store user contact information. This RESTful API follows clean architecture principles, making it extensible and easy to integrate with any frontend or mobile client.
 
